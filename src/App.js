@@ -8,8 +8,9 @@ function App() {
     <div className="app">
       {/* <h1> Youtube Clone</h1> */}
       <Header />
+      {/* <SideBar />
+      <Recomendedvideos /> */}
       
-      {/* Recomended videos */}
     
     </div>
   );

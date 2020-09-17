@@ -31,7 +31,7 @@ function Header() {
             <NotificationsIcon className="header_icon" />
             <Avatar
                 alt="my-image"
-                src=""
+                src="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
             />
             </div>
             
