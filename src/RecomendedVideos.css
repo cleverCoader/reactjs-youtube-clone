@@ -1,4 +1,12 @@
 .recomendedvideos{
     /* border: 1px solid black; */
     flex:0.87;
+    background-color:#f9f9f9;
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+.recomendedvideos > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
 }

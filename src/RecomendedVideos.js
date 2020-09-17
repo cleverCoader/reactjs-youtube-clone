@@ -4,7 +4,10 @@ import './RecomendedVideos.css';
 function RecomendedVideos() {
     return (
         <div className="recomendedvideos" >
-            <h1> Sam is building youtube-clone in R----J-</h1>
+            <h2> Recommended</h2>
+            <div recommendedVideos__videos>
+                {/* <Video /> */}
+            </div>
         </div>
     )
 }

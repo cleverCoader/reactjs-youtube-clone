@@ -10,3 +10,13 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.subscription-text{
+    text-align: left;
+    padding: 8px 24px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: rgb(110, 108, 108);
+    letter-spacing: 0;
+}
