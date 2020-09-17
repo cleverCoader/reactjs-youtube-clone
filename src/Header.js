@@ -6,7 +6,6 @@ import AppsIcon from '@material-ui/icons/Apps';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 import Avatar from '@material-ui/core/Avatar';
 
-
 function Header() {
     return (
         <div className="header" >
