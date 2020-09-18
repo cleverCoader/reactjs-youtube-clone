@@ -63,26 +63,6 @@ function Sidebar() {
             <SidebarRow ICon={HelpIcon} title="Help" /> 
             <SidebarRow ICon={FeedbackIcon} title="Send Feedback" /> 
 
-
-
-
-
-
-
-
-
-            
-
-            
-
-
-
-
-
-
-            
-
-
         </div>
     )
 }

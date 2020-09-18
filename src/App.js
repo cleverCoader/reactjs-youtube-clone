@@ -3,12 +3,13 @@ import './App.css';
 import Header from './Header';
 import Sidebar from './Sidebar';
 import RecomendedVideos from './RecomendedVideos';
+//-----------------------------------------------------
+import SearchPage from './SearchPage';
 
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 
 function App() {
@@ -16,23 +17,28 @@ function App() {
     <div className="app">
       
       <Router>
+      <Header />
         <Switch>
-        <Route path="/videos">
-            <h1>We are In videos Page</h1>
+          <Route path="/search/:searchTerm" >
+          <div className="app_page">
+              <Sidebar />
+              <SearchPage />
+          </div> 
+            
           </Route>
           <Route path="/">
-            <h1>We are In home Page</h1>
+          <div className="app_page">
+            <Sidebar />
+            <RecomendedVideos />
+          </div> 
           </Route>
         </Switch>
       </Router>
 
       
 
-      {/* <Header />
-      <div className="app_page">
-        <Sidebar />
-        <RecomendedVideos />
-      </div> */}
+      
+      
 
       
       
