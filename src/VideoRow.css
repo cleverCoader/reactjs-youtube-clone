@@ -1,0 +1,38 @@
+.VideoRow{
+    margin-bottom: 40px;
+    width: 270px;
+}
+
+.videoRow__icon{
+    height: 180px;
+    width: 250px;
+}
+
+
+.videoRow_items{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+
+.videoRow_text{
+    margin-left: 15px;
+}
+
+.videoRow_text >h4{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.videoRow_text >p{
+    font-size: 15px;
+    color: rgb(46, 44, 44);
+}
+
+.videoRow_avatar{
+    height: 35px !important;
+    width: 35px !important;
+}
+
+
