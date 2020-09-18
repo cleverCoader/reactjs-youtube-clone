@@ -4,6 +4,7 @@ import './VideoCard.css';
 import Avatar from '@material-ui/core/Avatar';
 
 
+
 function VideoCard({image, title, channel, views, timeStamp, channelImage}) {
     return (
         <div className="videoCard" >
