@@ -26,42 +26,42 @@ function SearchPage() {
             <hr />
             <div className="searchResults">
             <VideoRow
-                    title="Beautiful flowers "
+                    title="Beautiful Home "
                     views="10M views"
                     channel="Flower Shows"
                     timeStamp="1 min ago"
                     channelImage="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
-                    image="https://ae01.alicdn.com/kf/HTB13hxTKFXXXXa5XpXXq6xXFXXXR/Small-size-rose-2014-new-arrival-artificial-silk-flowers-25-pieces-a-bouquet-artificial-roses-special.jpg"
+                    image="https://images.wallpaperscraft.com/image/germany_park_cathedral_fountain_church_pond_trees_59443_300x168.jpg"
                 />
                 <VideoRow
                     title="Beautiful flowers "
                     views="10M views"
                     channel="Flower Shows"
-                    timeStamp="1 min ago"
+                    timeStamp="3 min ago"
                     channelImage="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
                     image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlkz47tiHDoibyIlvtpSvh2qON3TFf295Pbg&usqp=CAU"
                 />
                 <VideoRow
-                    title="Beautiful flowers "
+                    title=" Newyork City "
                     views="10M views"
                     channel="Flower Shows"
-                    timeStamp="1 min ago"
+                    timeStamp="5 min ago"
                     channelImage="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
-                    image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvz51WKfP3Ak53ElZ6v6mJ2aXEWuv-zGg9Aw&usqp=CAU"
+                    image="https://images.wallpaperscraft.com/image/city_night_panorama_117682_300x168.jpg"
+                />
+                <VideoRow
+                    title="Nice city in Night "
+                    views="10M views"
+                    channel="Flower Shows"
+                    timeStamp="10 min ago"
+                    channelImage="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
+                    image="https://images.wallpaperscraft.com/image/night_city_city_lights_overview_129026_300x168.jpg"
                 />
                 <VideoRow
                     title="Beautiful flowers "
                     views="10M views"
                     channel="Flower Shows"
-                    timeStamp="1 min ago"
-                    channelImage="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
-                    image="https://i.pinimg.com/736x/d5/d4/69/d5d4696f00821d943c2431ebce30d34a.jpg"
-                />
-                <VideoRow
-                    title="Beautiful flowers "
-                    views="10M views"
-                    channel="Flower Shows"
-                    timeStamp="1 min ago"
+                    timeStamp="3 min ago"
                     channelImage="https://avatars0.githubusercontent.com/u/71284942?s=460&u=042477abf4c5020157b30e8506b311a02d37f492&v=4"
                     image="https://ae01.alicdn.com/kf/HTB13hxTKFXXXXa5XpXXq6xXFXXXR/Small-size-rose-2014-new-arrival-artificial-silk-flowers-25-pieces-a-bouquet-artificial-roses-special.jpg"
                 />
